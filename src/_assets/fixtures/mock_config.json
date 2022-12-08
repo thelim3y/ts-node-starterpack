@@ -1,0 +1,35 @@
+{
+    "device": {
+        "description": "AtlasIED IP Speaker",
+        "serial_number": "0123456789",
+        "firmware_version": "1.2.3",
+        "kernel_version": "XYZ",
+        "build_number": 0,
+        "model": "IP-SDMF",
+        "mac_address": "abcdef012345",
+        "name": "",
+        "location": "",
+        "speaker_type": "none",
+        "mic_type": "none",
+        "display_type": "none",
+        "strobe_type": "none",
+        "uptime": "0 minutes"
+    },
+    "network": {
+        "hostname": "AtlasIED_IPX",
+        "mac_address": "abcdef012345",
+        "ip_address": "127.0.0.1",
+        "netmask": "255.255.255.0",
+        "gateway": "127.0.0.1",
+        "dns-servers": [
+            "1.1.1.1"
+        ],
+        "vlan_id": 0,
+        "vlan_priority": 0,
+        "vlan_tagged": false
+    },
+    "security": {
+        "username": "admin",
+        "password": "$6$nqiaZb1AkdxTYDxk$KJdDTlCdho87uP5xh3Ud4WaYSDxgmpPLYPHtt0UTA7SG5uexcK0BG2QJgADKOD7SYq.N.7pcI.OkXoq.tl.13."
+    }
+}
